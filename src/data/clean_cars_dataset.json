@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Maruti Alto",
+    "brand": "Maruti",
+    "model": "Alto",
+    "category": "Basic",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "seats": "5",
+    "price": "900",
+    "hourlyRate": "250",
+    "rating": "4.2"
+  },
+  {
+    "name": "Hyundai Santro",
+    "brand": "Hyundai",
+    "model": "Santro",
+    "category": "Basic",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "seats": "5",
+    "price": "950",
+    "hourlyRate": "250",
+    "rating": "4.3"
+  },
+  {
+    "name": "Tata Tiago",
+    "brand": "Tata",
+    "model": "Tiago",
+    "category": "Basic",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "seats": "5",
+    "price": "1000",
+    "hourlyRate": "250",
+    "rating": "4.4"
+  },
+  {
+    "name": "Hyundai i20",
+    "brand": "Hyundai",
+    "model": "i20",
+    "category": "Moderate",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": "5",
+    "price": "1400",
+    "hourlyRate": "400",
+    "rating": "4.6"
+  },
+  {
+    "name": "Tata Nexon",
+    "brand": "Tata",
+    "model": "Nexon",
+    "category": "Moderate",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": "5",
+    "price": "1600",
+    "hourlyRate": "400",
+    "rating": "4.5"
+  },
+  {
+    "name": "Honda Amaze",
+    "brand": "Honda",
+    "model": "Amaze",
+    "category": "Moderate",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "seats": "5",
+    "price": "1500",
+    "hourlyRate": "400",
+    "rating": "4.4"
+  },
+  {
+    "name": "Toyota Fortuner",
+    "brand": "Toyota",
+    "model": "Fortuner",
+    "category": "Luxury",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "seats": "7",
+    "price": "3500",
+    "hourlyRate": "600",
+    "rating": "4.8"
+  },
+  {
+    "name": "BMW X1",
+    "brand": "BMW",
+    "model": "X1",
+    "category": "Luxury",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": "5",
+    "price": "5000",
+    "hourlyRate": "600",
+    "rating": "4.9"
+  },
+  {
+    "name": "Audi Q3",
+    "brand": "Audi",
+    "model": "Q3",
+    "category": "Luxury",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": "5",
+    "price": "5200",
+    "hourlyRate": "600",
+    "rating": "4.8"
+  }
+]

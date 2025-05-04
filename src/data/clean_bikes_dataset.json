@@ -1,0 +1,46 @@
+[
+  {
+    "name": "TVS Sport",
+    "brand": "TVS",
+    "model": "Sport",
+    "category": "Basic",
+    "fuel": "Petrol",
+    "price": "300",
+    "hourlyRate": "20",
+    "rating": "4.1",
+    "availabilityStatus": "TRUE"
+  },
+  {
+    "name": "Hero Splendor",
+    "brand": "Hero",
+    "model": "Splendor",
+    "category": "Basic",
+    "fuel": "Petrol",
+    "price": "350",
+    "hourlyRate": "25",
+    "rating": "4.2",
+    "availabilityStatus": "TRUE"
+  },
+  {
+    "name": "Yamaha FZ",
+    "brand": "Yamaha",
+    "model": "FZ",
+    "category": "Moderate",
+    "fuel": "Petrol",
+    "price": "550",
+    "hourlyRate": "40",
+    "rating": "4.4",
+    "availabilityStatus": "TRUE"
+  },
+  {
+    "name": "Royal Enfield Himalayan",
+    "brand": "Royal Enfield",
+    "model": "Himalayan",
+    "category": "Luxury",
+    "fuel": "Petrol",
+    "price": "900",
+    "hourlyRate": "60",
+    "rating": "4.7",
+    "availabilityStatus": "TRUE"
+  }
+]
